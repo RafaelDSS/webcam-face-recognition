@@ -35,3 +35,7 @@ After
 ```
 python main.py
 ```
+
+## Based on:
+- https://github.com/milvus-io/bootcamp/tree/master/solutions/reverse_image_search/quick_deploy/server/src
+- https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
