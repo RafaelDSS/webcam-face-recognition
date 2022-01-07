@@ -15,6 +15,7 @@ https://github.com/ageitgey/face_recognition
 
 ```
 docker-compose up -d
+pip install -r requirements.txt
 ```
 
 Put the face images in the images directory. Ex:
